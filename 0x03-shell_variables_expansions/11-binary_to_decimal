@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(decimal_number=$((2#$binary_number)))
+echo $ decimal_number=$((2#$binary_number))
