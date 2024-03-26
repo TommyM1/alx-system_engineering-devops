@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# stop while loop without kill and killall
-pkill -f "7-highlander"
